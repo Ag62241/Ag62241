@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ag62241
-- 🌱 I’m currently studying mathematical modelling and simulation
-
+- 👋 Hi, I’m Amarsha
+- 🌱 I’m currently studying Mathematics & Statistics and Chemistry
 
 <!---
 Ag62241/Ag62241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
